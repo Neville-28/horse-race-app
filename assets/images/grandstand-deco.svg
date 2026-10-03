@@ -1,0 +1,37 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 43">
+<circle id="Glow Halo Large" cx="35" cy="35" r="35" fill="url(#paint0_radial_0_87)"/>
+<g id="Glow Halo Med" filter="url(#filter0_f_0_87)">
+<circle cx="35" cy="35" r="20" fill="url(#paint1_radial_0_87)"/>
+</g>
+<g id="Seat Dot" filter="url(#filter1_d_0_87)">
+<circle cx="35" cy="35" r="5" fill="#2997FF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_87" x="9" y="9" width="52" height="52" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3" result="effect1_foregroundBlur_0_87"/>
+</filter>
+<filter id="filter1_d_0_87" x="20" y="20" width="30" height="30" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_0_87"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.160784 0 0 0 0 0.592157 0 0 0 0 1 0 0 0 0.8 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_87"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_87" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_0_87" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(35 35) rotate(90) scale(35)">
+<stop stop-color="#2997FF" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#2997FF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_0_87" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(35 35) rotate(90) scale(20)">
+<stop stop-color="#2997FF" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#2997FF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
